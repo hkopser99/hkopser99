@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hkopser99
-- 👀 I’m interested in building functional business apps with react frontends
-- 🌱 I’m currently learning React and Firebase RealtimeDB
-- 💞️ I’m looking to collaborate on my newsreader project Fourth Estate
+- 👀 I’m interested in building business apps and newsreaders with react frontends
+- 🌱 I’m currently learning advanced React and Firebase RealtimeDB
+- 💞️ I’m looking to collaborate on my newsreader project Fourth Estate and anything I upload down the road
 - 📫 How to reach me: Just message!
 
 <!---
